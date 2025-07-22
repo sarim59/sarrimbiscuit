@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+     <meta charset="UTF-8">
+     <meta name="viewport"  content="width=device-width,  initial-scale=1.0"
+     <title>document</title>
+     <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+      <h1>>Welcome to wanderlust flight agency</h1>
+      <p>your gateway to unforgettable adventure</p>
+      <div class="center">
+        img src="https://www.mrporter.com/content/images/cms/ycm/resource/blob/1481748/1c5ad6b89f301edff400d6ba3c9030cb/mob-data.jpg/w800_q80.jpg"
+      </div>
+      <div class="center"
+      <a href="./dest.html" explore destniation</a>
+      <a href="./contact.html"></a>
+      </div>
+</body>
+</html>
